@@ -43,7 +43,7 @@ for (int index = 0; index < list.size(); index++)
      }
 if(list.size() == 0)
 {
-  cout<<"No items to buy\n";
+  cout<<"No items to buy!\n";
 }
   return 0;
 }
