@@ -35,7 +35,7 @@ int main()
     }
     if ((input == 'd' || input == 'D') && list.size() != 0)
     {
-      cout<<list[list.size()-1]<<" was deleted from the list. \n";
+      cout<<list[list.size()-1]<<" was deleted from the list.\n";
       list.pop_back();
 
     }
